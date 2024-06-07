@@ -1,8 +1,10 @@
-# Data_projects_TripleTen
-TripleTen Projects
+# TripleTen_projects
+Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-PROFILE
 
-I have nearly ten years of experience in Search Engine Evaluation & Artificial Intelligence and fifteen years in the Environmental Consulting field. I have recently completed a Business Intelligence Analytics (BIA) Bootcamp so that I may pivot into data analysis. My past experience in collection, evaluation and reporting of data and recent training in BIA make me a qualified candidate for a positions in BIA. 
-
-I have recently completed several projects during my training with TripleTen including a Final Project to analyze Zomato.com data. 
+| Project number | Title | Description |
+| :-----------: | ----------- |----------- |
+| 4 | Data Visualization with Tableau| The project task was to analyze Profit & Loss, Advertising and Returns for Superstore |
+| 5 | Storytelling with Data | The project task was to assess the causes of Returns for Superstore  |
+| 6 | PowerBI | The project task was to review the performance of apps on the Shopify platform |
+| 7 | Final Project | The project task was to analze the performance of restaurants listed on Zomato. |
